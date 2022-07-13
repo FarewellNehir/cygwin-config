@@ -1,0 +1,14 @@
+Transparency=off
+ThemeFile=gruvbox
+FontSmoothing=full
+AllowBlinking=yes
+Term=xterm-256color
+BellType=3
+Font=Cascadia Code SemiBold
+FontWeight=600
+Columns=82
+Rows=20
+CtrlShiftShortcuts=yes
+ClicksPlaceCursor=no
+ClicksTargetApp=yes
+ConfirmExit=no
